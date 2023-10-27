@@ -1,0 +1,1 @@
+C:\temp\ws-dotnet\Galery\AppGalery\AppGalery.csproj;x64
